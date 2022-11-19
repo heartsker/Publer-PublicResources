@@ -1,1 +1,1 @@
-# DeveloperClubResources
+Publer-PublicResources
